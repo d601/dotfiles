@@ -1,0 +1,15 @@
+! dark
+xterm*background: #111111
+xterm*foreground: #ffffff
+! yellowish
+!xterm*background: #fff2b8
+!xterm*foreground: #000000
+xterm*font: *-Terminus-medium-*-*-*-14-*
+xterm*wideFont: -misc-fixed-medium-r-normal-ja-18-120-100-100-c-180-iso10646-1
+!xterm*faceName: Hermit
+xterm*faceSize: 10
+xterm*termName: xterm-256color
+xterm*scrollBar: off
+XTerm*metaSendsEscape: true
+XTerm*jumpScroll:               true 
+XTerm*multiScroll:              true
